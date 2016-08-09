@@ -1,2 +1,2 @@
 # audiovista.org
-audiovista.org is a page that's part of the Fluency Project
+audiovista.org is part of CREATE Lab's Fluency Project.
